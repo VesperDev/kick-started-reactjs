@@ -1,0 +1,1 @@
+export const SET_INPUT_LOGIN = "SET_INPUT_LOGIN"
